@@ -37,7 +37,18 @@
     10. Strategie di caricamento codice
     11. Commenti 
 -->
-    
+    <p> Player 1: Chris </p>
+
+    <script>
+        const paragraph = document.querySelector('p');
+
+        paragraph.addEventListener('click', updateName);
+
+        function updateName(){
+            let name = prompt('Enter a new name');
+            paragraph.textContent = 'Player 1: '+ name;
+        }
+    </script>
 </body>
 </html>
 
