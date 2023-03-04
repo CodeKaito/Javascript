@@ -45,10 +45,10 @@
             const cognome = document.getElementById('lname');
             const paragrafo = document.querySelector('p');
 
-            form.onSubmit = function (e) {
+            form.onsubmit = function (e) {
                 if (nome.value === '' || cognome.value === '') {
                     e.preventDefault();
-                    paragrafo.textContent = "You need to fil in both names!";
+                    paragrafo.textContent = "You need to fill in both names!";
                 }
             }
         </script>
