@@ -4,7 +4,7 @@ JavaScript is a scripting or programming language that allows you to implement c
 ## JavaScript HTML DOM
 
 1. [ DOM Introduction ](#introduction)
-  - [ What is the DOM? ](#dom)
+    - [ What is the DOM? ](#dom)
 3. [ DOM JavaScript Method ](#method)
 4. [ DOM JavaScript Document ](#syntax)
 
