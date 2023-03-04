@@ -6,7 +6,8 @@ JavaScript is a scripting or programming language that allows you to implement c
 1. [ DOM Introduction ](#introduction)
     - [ What is the DOM? ](#dom)
 3. [ DOM JavaScript Method ](#method)
-4. [ DOM JavaScript Document ](#syntax)
+    - [ The DOM programming interface ](#interface)
+5. [ DOM JavaScript Document ](#syntax)
 
 <a name="introduction"></a>
 - ## The HTML DOM (Document Object Model)
@@ -41,3 +42,21 @@ The W3C DOM standard is separated into 3 different parts:
 Core DOM - standard model for all document types
 XML DOM - standard model for XML documents
 HTML DOM - standard model for HTML documents
+
+<a name="method"></a>
+- ## JavaScript - HTML DOM Methods
+HTML DOM methods are actions you can perform (on HTML Elements).
+
+HTML DOM properties are values (of HTML Elements) that you can set or change.
+
+<a name="interface"></a>
+### The DOM programming interface
+The HTML DOM can be accessed with JavaScript (and with other programming languages).
+
+In the DOM, all HTML elements are defined as objects.
+
+The programming interface is the properties and methods of each object.
+
+A property is a value that you can get or set (like changing the content of an HTML element).
+
+A method is an action you can do (like add or deleting an HTML element).
