@@ -7,6 +7,8 @@ JavaScript is a scripting or programming language that allows you to implement c
 2. [ DOM JavaScript Method ](#method)
 3. [ DOM JavaScript Document ](#syntax)
 
+- ## The HTML DOM (Document Object Model)
+
 With the HTML DOM, JavaScript can access and change all the elements of an HTML document.
 
 The HTML DOM (Document Object Model)
@@ -23,3 +25,16 @@ With the object model, JavaScript gets all the power it needs to create dynamic 
 - JavaScript can add new HTML elements and attributes
 - JavaScript can react to all existing HTML events in the page
 - JavaScript can create new HTML events in the page
+
+### What is the DOM?
+The DOM is a W3C (World Wide Web Consortium) standard.
+
+The DOM defines a standard for accessing documents:
+
+"The W3C Document Object Model (DOM) is a platform and language-neutral interface that allows programs and scripts to dynamically access and update the content, structure, and style of a document."
+
+The W3C DOM standard is separated into 3 different parts:
+
+Core DOM - standard model for all document types
+XML DOM - standard model for XML documents
+HTML DOM - standard model for HTML documents
