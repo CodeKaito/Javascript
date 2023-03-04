@@ -6,3 +6,5 @@ JavaScript is a scripting or programming language that allows you to implement c
 1. [ Introduction ](#introduction)
 2. [ JavaScript Quickstart ](#start)
 3. [ JavaScript Syntax ](#syntax)
+
+...
