@@ -4,9 +4,11 @@ JavaScript is a scripting or programming language that allows you to implement c
 ## JavaScript HTML DOM
 
 1. [ DOM Introduction ](#introduction)
-2. [ DOM JavaScript Method ](#method)
-3. [ DOM JavaScript Document ](#syntax)
+  - [ What is the DOM? ](#dom)
+3. [ DOM JavaScript Method ](#method)
+4. [ DOM JavaScript Document ](#syntax)
 
+<a name="introduction"></a>
 - ## The HTML DOM (Document Object Model)
 
 With the HTML DOM, JavaScript can access and change all the elements of an HTML document.
@@ -26,6 +28,7 @@ With the object model, JavaScript gets all the power it needs to create dynamic 
 - JavaScript can react to all existing HTML events in the page
 - JavaScript can create new HTML events in the page
 
+<a name="dom"></a>
 ### What is the DOM?
 The DOM is a W3C (World Wide Web Consortium) standard.
 
