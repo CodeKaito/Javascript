@@ -73,7 +73,7 @@ document.getElementById("demo").innerHTML = "Hello World!";
 </body>
 </html>
 ````
-⚠️ In the example above, ````diff - getElementById```` is a `method`, while 'innerHTML' is a `property`.
+⚠️ In the example above, getElementById is a `method`, while innerHTML is a `property`.
 
 
     
