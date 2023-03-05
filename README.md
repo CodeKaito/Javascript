@@ -9,7 +9,7 @@ JavaScript is a scripting or programming language that allows you to implement c
     - [ The DOM programming interface ](#interface)
     - [ The getElementById Method ](#getelement)
     - [ The innerHTML Property ](#innerhtml)
-5. [ DOM JavaScript Document ](#syntax)
+5. [ DOM JavaScript Document ](#document)
 
 <a name="introduction"></a>
 - ## The HTML DOM (Document Object Model)
@@ -89,6 +89,5 @@ The `innerHTML` property is useful for getting or replacing the content of `HTML
 
 The `innerHTML` property can be used to get or change any HTML element, including `<html>` and `<body>`.
 
-
-
-    
+<a name="document"></a>
+- ## JavaScript HTML DOM Document
