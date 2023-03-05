@@ -83,9 +83,9 @@ In the example above the `getElementById` method used `id="demo"` to find the el
 ### The innerHTML Property
 The easiest way to get the content of an element is by using the `innerHTML property`.
 
-The innerHTML property is useful for getting or replacing the content of `HTML` elements.
+The `innerHTML` property is useful for getting or replacing the content of `HTML` elements.
 
-The innerHTML property can be used to get or change any HTML element, including `<html>` and `<body>`.
+The `innerHTML` property can be used to get or change any HTML element, including `<html>` and `<body>`.
 
 
 
