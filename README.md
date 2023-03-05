@@ -7,6 +7,8 @@ JavaScript is a scripting or programming language that allows you to implement c
     - [ What is the DOM? ](#dom)
 3. [ DOM JavaScript Method ](#method)
     - [ The DOM programming interface ](#interface)
+    - [ The getElementById Method ](#getelement)
+    - [ The innerHTML Property ](#innerhtml)
 5. [ DOM JavaScript Document ](#syntax)
 
 <a name="introduction"></a>
