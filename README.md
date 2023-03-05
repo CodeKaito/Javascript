@@ -76,10 +76,12 @@ document.getElementById("demo").innerHTML = "Hello World!";
 </html>
 ````
 ⚠️ In the example above, getElementById is a `method`, while innerHTML is a `property`.
+<a name="getelement"></a>
 ### The getElementById Method
 The most common way to access an HTML element is to use the `id` of the element.
 
 In the example above the `getElementById` method used `id="demo"` to find the element.
+<a name="innerhtml"></a>
 ### The innerHTML Property
 The easiest way to get the content of an element is by using the `innerHTML property`.
 
