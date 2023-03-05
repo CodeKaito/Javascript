@@ -73,3 +73,7 @@ document.getElementById("demo").innerHTML = "Hello World!";
 </body>
 </html>
 ````
+⚠️ In the example above, getElementById is a method, while innerHTML is a property.
+
+
+    
